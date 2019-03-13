@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15088" started-at="2019-03-13T03:41:36Z" finished-at="2019-03-13T03:41:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15088" started-at="2019-03-13T03:41:36Z" finished-at="2019-03-13T03:41:51Z">
+      <class name="com.training.sanity.tests.CYTC_016">
+        <test-method status="PASS" signature="setUpBeforeTest()[pri:0, instance:com.training.sanity.tests.CYTC_016@3532ec19]" name="setUpBeforeTest" is-config="true" duration-ms="0" started-at="2019-03-13T03:41:36Z" finished-at="2019-03-13T03:41:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTest -->
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.training.sanity.tests.CYTC_016@3532ec19]" name="setUpClass" is-config="true" duration-ms="6511" started-at="2019-03-13T03:41:36Z" finished-at="2019-03-13T03:41:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="displayAccountdetailsTest()[pri:0, instance:com.training.sanity.tests.CYTC_016@3532ec19]" name="displayAccountdetailsTest" duration-ms="6676" started-at="2019-03-13T03:41:42Z" finished-at="2019-03-13T03:41:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displayAccountdetailsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.sanity.tests.CYTC_016@3532ec19]" name="tearDown" is-config="true" duration-ms="1873" started-at="2019-03-13T03:41:49Z" finished-at="2019-03-13T03:41:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.training.sanity.tests.CYTC_016 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
